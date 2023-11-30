@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 👨‍🎓 **Additional Profile** "Oral Communication in Academic Environment" in English | 🎓 Sep 2020 - Jul 2022, Higher School of Economics (HSE)
 
 👨‍💻 **Work Experience**:
-- Python Intern, Junior Developer, Developer | LLC "URSA TECHNOLAB" | May 2022 - present
-  - Developed a Python procedure for ETL task, configured to run through Apache Airflow.
-  - Involved in database development on Oracle and databases with hierarchical structure on Postgres.
-  - Developed PLSQL stored procedures for data creation, processing, modification, cleaning, and quality checks.
-  - Created Python scripts using PySpark for data analysis, transformation, and loading.
-  - Developed various Python utilities for managing multiple GIT repositories and optimizing internal company processes.
-  - Deployed projects using Gitlab-CI technology and wrote a guide on working with PyCharm in WSL.
+- Data Engineer | LLC "URSA TECHNOLAB" | May 2022 - present
+  - Developштп Python solutions for ETL data transfer to Oracle and Postgres.
+  - Developштп PySpark procedureы for mapping data from HDFS with subsequent extraction into Parquet files.
+  - Developing databases and PL/SQL stored procedures for data migrations, processing, modification, cleaning, and quality checks.
+  - Project deployment using Gitlab-CI technology, enhancing development efficiency.
 
 📄 **About Me**:
 - Participant in ICPC and author of a publication in IVT-2023.
