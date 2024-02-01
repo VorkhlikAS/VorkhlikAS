@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Interested in working on B2C projects using modern Artificial Intelligence technologies.
 
 🚀 **Hard Skills**:
-- Python, PLSQL, BASH
+- Python, Scala, SQL, PLSQL, BASH
 - Postgre, Oracle
 - Docker, Gitlab-CI
 - Windows, Linux
