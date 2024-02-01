@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 👨‍🎓 **Additional Profile** "Oral Communication in Academic Environment" in English | 🎓 Sep 2020 - Jul 2022, Higher School of Economics (HSE)
 
 👨‍💻 **Work Experience**:
-- Data Engineer | LLC "URSA TECHNOLAB" | May 2022 - present
+- Data Engineer | LLC "VC-IT" | Jan 2024 - present
+> https://vcomit.ru/
+- Data Engineer | LLC "URSA TECHNOLAB" | May 2022 - Jan 2024
+> https://ursalab.ru/
   - Developштп Python solutions for ETL data transfer to Oracle and Postgres.
   - Developштп PySpark procedureы for mapping data from HDFS with subsequent extraction into Parquet files.
   - Developing databases and PL/SQL stored procedures for data migrations, processing, modification, cleaning, and quality checks.
