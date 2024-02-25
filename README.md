@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 👨‍🎓 **Additional Profile** "Oral Communication in Academic Environment" in English | 🎓 Sep 2020 - Jul 2022, Higher School of Economics (HSE)
 
 👨‍💻 **Work Experience**:
-- Data Engineer | [LLC "VC-IT"](https://vcomit.ru/) aka Beeline-IT| Jan 2024 - present
+- Data Engineer | [LLC "VC-IT"](https://vcomit.ru/) better known as Beeline-IT| Jan 2024 - present
   - Developing Spark applications on Scala and Python
   - Deploying Spark application with Apache Airflow
-- Data Engineer | [LLC "URSA TECHNOLAB"](https://ursalab.ru/) aka URSA-TECHNOLAB| May 2022 - Jan 2024
+- Data Engineer | [LLC "URSA TECHNOLAB"](https://ursalab.ru/) better known as URSA-TECHNOLAB| May 2022 - Jan 2024
   - Developing Python solutions for ETL data transfer to Oracle and Postgres.
-  - Developing PySpark procedureы for mapping data from HDFS with subsequent extraction into Parquet files.
+  - Developing PySpark procedures for mapping data from HDFS with subsequent extraction into Parquet files.
   - Developing databases and PL/SQL stored procedures for data migrations, processing, modification, cleaning, and quality checks.
   - Project deployment using Gitlab-CI technology, enhancing development efficiency.
 
